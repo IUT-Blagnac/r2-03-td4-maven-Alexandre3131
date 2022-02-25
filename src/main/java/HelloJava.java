@@ -4,6 +4,7 @@
  * @author LC
  */
 class HelloJava {
+	//commentaire
 	public afficherCancan(){
 
 	}
