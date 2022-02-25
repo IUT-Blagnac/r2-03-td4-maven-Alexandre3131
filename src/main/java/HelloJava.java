@@ -4,8 +4,11 @@
  * @author LC
  */
 class HelloJava {
-	//commentaire
-	public afficherCancan(){
+	//commentair
+	public static void main(String[] args) {
+		System.out.println("Hello Blagnac");
+	}
 
+	public void afficherCancan(){
 	}
 }
